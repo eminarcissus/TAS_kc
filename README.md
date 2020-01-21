@@ -25,22 +25,22 @@
     * Example SLA-layout created using Prusa Slicer for printing with an Anycubic Photon:
     ![prusa_slicer_layout](https://i.imgur.com/WXdAUii.jpg)
 
-* **SLS**: The keycaps can be sent to a 3D printing service such as (3D Hubs)[https://www.3dhubs.com/] and made with SLS Nylon
+* **SLS**: The keycaps can be sent to a 3D printing service such as [3D Hub](https://www.3dhubs.com/) and made with SLS Nylon
 
 ----
 
 #### Supported layouts:
 ##### Planck:
 ![planck_layout_render](https://i.imgur.com/ljV0FAw.jpg)
-* Can be made by printing the `./layouts/stl/TAS_profile_layout_4x6_a.stl` and `./layouts/stl/TAS_profile_layout_4x6_b.stl` layout files
+* SLS: Can be made by printing the `./layouts/stl/TAS_profile_layout_4x6_a.stl` and `./layouts/stl/TAS_profile_layout_4x6_b.stl` layout files
 
 ##### Preonic:
 ![preonic_layout_render](https://i.imgur.com/6NSYef8.jpg)
-* Can be made by printing the `./layouts/stl/TAS_profile_layout_5x6_a.stl` and `./layouts/stl/TAS_profile_layout_5x6_b.stl` layout files
+* SLS: Can be made by printing the `./layouts/stl/TAS_profile_layout_5x6_a.stl` and `./layouts/stl/TAS_profile_layout_5x6_b.stl` layout files
 
 ##### Corne
 ![corne_layout_render](https://i.imgur.com/aOKTsyF.jpg)
-* Can be produced by printing out two copies of the `./layouts/stl/TAS_profile_layout_4x6_c.stl` file
+* SLS: Can be produced by printing out two copies of the `./layouts/stl/TAS_profile_layout_4x6_c.stl` file
 
 ----
 
@@ -70,7 +70,8 @@
     * SLA models have more detailed stem slots and are larger: 1.325/1.425mm
         * Tested on Kailh Box and Pro Heavy stems
 
-![mx_stem_dimensions](https://i.imgur.com/NWxlgH6.jpg)
+![sls_stem_dimensions](https://i.imgur.com/ugfYa43.jpg)
+![sla_stem_dimensions](https://i.imgur.com/bUId9Cf.jpg)
 
 * The geometry of the keycap is defined using the following parameters:
     1) Base square side length
